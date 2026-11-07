@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-07
+
+### Fixed
+- Tìm DVD theo tiêu đề không phân biệt hoa thường.
+
 ## [1.0.0] - 2026-11-07
 
 ### Added
