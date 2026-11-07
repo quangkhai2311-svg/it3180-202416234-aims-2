@@ -15,3 +15,7 @@ GitFlow có nhánh develop để tích hợp tính năng; nhánh release thườ
 ## Vì sao lên 1.0.0 thay vì 0.4.0?
 
 Nhóm quyết định đây là bản ổn định đầu tiên với phạm vi tính năng được chốt và đã kiểm thử: in giỏ, tìm tiêu đề, giảm giá và giới hạn số DVD. Các bản 0.x đại diện cho giai đoạn phát triển ban đầu; 1.0.0 đánh dấu mốc ổn định được cam kết. Đây là quyết định về mức độ ổn định và tương thích, không chỉ do đã hoàn thành Lab 04.
+
+## Ghi chú về lần sửa baseline của repo này
+
+Baseline ban đầu được tạo trước khi PR chuẩn bị 1.0.0 được merge. Đã sửa release bằng PR và chuyển tag theo yêu cầu rõ của chủ repo. Nhánh kiểm toán đưa quan hệ tổ tiên của baseline đã sửa vào master mà không đổi mã nguồn master, để status accounting phản ánh đúng master chứa baseline. Đây là khắc phục thao tác tạo mốc sớm, không phải thay đổi quy trình release/hotfix thông thường của bài.
