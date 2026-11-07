@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### Added
+- Sắp xếp giỏ theo tiêu đề và giá bằng sort_by_title(), sort_by_cost().
+
 ## [1.0.0] - 2026-11-07
 
 ### Added
