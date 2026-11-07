@@ -4,6 +4,7 @@
 
 ### Added
 - Sắp xếp giỏ theo tiêu đề và giá bằng sort_by_title(), sort_by_cost().
+- Tìm DVD theo danh mục, không phân biệt hoa thường.
 
 ## [1.0.0] - 2026-11-07
 
